@@ -1,7 +1,8 @@
 # derivatives-trading-data-warehouse
 End-to-end data warehouse design and analytics on derivatives trading data using MySQL and Python.
 
-F&O Market Data Database – Senior Data Associate Assignment
+F&O Market Data Database 
+
 Project Overview
 
 This project is about designing a relational database to store and analyze high-volume Futures & Options (F&O) market data from Indian exchanges like NSE, BSE, and MCX.
@@ -66,7 +67,7 @@ Cross-exchange comparisons
 
 Liquidity and trading activity monitoring
 
-These are standard analytics tasks for trading desks, quant teams, and risk analysis.
+
 
 Tools & Tech Stack
 
